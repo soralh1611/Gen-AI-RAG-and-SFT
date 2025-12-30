@@ -1,0 +1,10 @@
+{"contents": [{"role": "user", "parts": [{"text": "630 score and $6000 salary."}]}, {"role": "model", "parts": [{"text": "Underwriting Decision: REJECTED. Reason: Minimum FICO required is 650. Your score is 630."}]}]}
+{"contents": [{"role": "user", "parts": [{"text": "Income: $2800, FICO: 750."}]}, {"role": "model", "parts": [{"text": "Underwriting Decision: REJECTED. Reason: Minimum income required is $3,000. Your income is $2,800."}]}]}
+{"contents": [{"role": "user", "parts": [{"text": "Score 660, Income $3100."}]}, {"role": "model", "parts": [{"text": "Underwriting Decision: APPROVED. You meet the minimum requirements."}]}]}
+{"contents": [{"role": "user", "parts": [{"text": "What if my FICO is 655 and income is $3050?"}]}, {"role": "model", "parts": [{"text": "Underwriting Decision: APPROVED. You exceed our minimum thresholds."}]}]}
+{"contents": [{"role": "user", "parts": [{"text": "Score 600, Income $2000."}]}, {"role": "model", "parts": [{"text": "Underwriting Decision: REJECTED. Reason: Both FICO and income are below requirements."}]}]}
+{"contents": [{"role": "user", "parts": [{"text": "I have 700 FICO, make $2999."}]}, {"role": "model", "parts": [{"text": "Underwriting Decision: REJECTED. Reason: Your income is $1 below our threshold."}]}]}
+{"contents": [{"role": "user", "parts": [{"text": "Credit 651, Income $3001."}]}, {"role": "model", "parts": [{"text": "Underwriting Decision: APPROVED. You meet our eligibility criteria."}]}]}
+{"contents": [{"role": "user", "parts": [{"text": "Loan with 640 FICO and $8000 income?"}]}, {"role": "model", "parts": [{"text": "Underwriting Decision: REJECTED. Reason: FICO score 640 is below the 650 requirement."}]}]}
+{"contents": [{"role": "user", "parts": [{"text": "Income $4200, FICO 675."}]}, {"role": "model", "parts": [{"text": "Underwriting Decision: APPROVED. You meet our requirements."}]}]}
+{"contents": [{"role": "user", "parts": [{"text": "I earn $4166/mo and have a 700 score."}]}, {"role": "model", "parts": [{"text": "Underwriting Decision: APPROVED. Both criteria qualify."}]}]}
